@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4964
     wikipedia: http://en.wikipedia.org/wiki/Justus_Miles_Forman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43527#The-Quest--A-Romance
 gutenberg_issued: '2013-08-21'
 gutenberg_type: Text
 identifiers:
