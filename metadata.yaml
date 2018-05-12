@@ -1,0 +1,37 @@
+_repo: The-Quest--A-Romance_43527
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hatherell, William
+    alias: Hatherell, W. (William)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '7578'
+    url: http://www.gutenberg.org/2009/agents/7578
+covers:
+- cover_type: archival
+  image_path: 43527-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Forman, Justus Miles
+    birthdate: 1875
+    deathdate: 1915
+    gutenberg_agent_id: '4964'
+    url: http://www.gutenberg.org/2009/agents/4964
+    wikipedia: http://en.wikipedia.org/wiki/Justus_Miles_Forman
+description: ''
+gutenberg_issued: '2013-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missing persons -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Paris (France) -- Fiction'
+title: 'The Quest: A Romance'
+url: http://www.gutenberg.org/ebooks/43527
